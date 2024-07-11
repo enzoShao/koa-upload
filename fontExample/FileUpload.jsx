@@ -27,7 +27,7 @@ function FileUpload() {
   return (
     <div>
       <input type="file" onChange={handleFileChange} />
-      <button onClick={handleUpload}>上傳檔案</button>
+      <button onClick={handleUpload}>上傳檔案11</button>
     </div>
   );
 }
